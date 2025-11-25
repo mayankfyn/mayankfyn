@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hello there! I'm <img src="https://mynk.me/text-logo.webp" align="center" width="140px">👋</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-<!--
-**mayankfyn/mayankfyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayankfyn&theme=discord" alt="mayankfyn" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<br>
+<div align="center">
+  💬 Ask me about <b>Python, JS/TS, PHP</b><br>
+  📫 How to reach me <b><a href="mailto:contact@mayanklabs.com">contact@mayanklabs.com</a></b>
+</div>
+<br>
